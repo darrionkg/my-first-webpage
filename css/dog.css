@@ -1,0 +1,14 @@
+h1 {
+  color: orange;
+  font-family: cursive;
+}
+img {
+  text-align: center;
+  height: 500px;
+}
+h2 {
+  font-weight: 900;
+}
+p {
+  font-style: italic;
+}
